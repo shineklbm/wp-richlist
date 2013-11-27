@@ -17,8 +17,8 @@
 function rich_list_includes() {
 	$rich_plugin_path = get_bloginfo('wpurl');
 	$template_path = get_template_directory();
-	if(file_exists($template_path.'/richlist/richstyle.css'))
-		wp_enqueue_style( 'richstyle', $template_path.'/richlist/richstyle.css' );
+	if(file_exists($template_path.'/wp-richlist/richstyle.css'))
+		wp_enqueue_style( 'richstyle', $template_path.'/wp-richlist/richstyle.css' );
 	else
 		wp_enqueue_style( 'richstyle', $rich_plugin_path.'/wp-content/plugins/category-list-widget/css/richstyle.css' );
 	//wp_enqueue_style( 'style-name', get_stylesheet_uri() );
