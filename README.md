@@ -5,6 +5,7 @@ A really simple plugin for wordpress to display the list categories with posts t
 
 ### How to install
 The installation is really simple.
+
 1. Download the zip.
 2. Extract the files to your wp-content/plugins folder
 3. Login to your wordpress backend
