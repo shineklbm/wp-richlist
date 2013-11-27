@@ -20,12 +20,12 @@ function rich_list_includes() {
 	if(file_exists($template_path.'/wp-richlist/richstyle.css'))
 		wp_enqueue_style( 'richstyle', $template_path.'/wp-richlist/richstyle.css' );
 	else
-		wp_enqueue_style( 'richstyle', $rich_plugin_path.'/wp-content/plugins/category-list-widget/css/richstyle.css' );
+		wp_enqueue_style( 'richstyle', $rich_plugin_path.'/wp-content/plugins/wp-richlist/css/richstyle.css' );
 	//wp_enqueue_style( 'style-name', get_stylesheet_uri() );
 	wp_dequeue_script('jquery');
 	wp_enqueue_script('jquery');
 	wp_enqueue_script('jquery-ui-accordion');
-	wp_enqueue_script('script-name', $rich_plugin_path . '/wp-content/plugins/category-list-widget/js/richlist.js');
+	wp_enqueue_script('script-name', $rich_plugin_path . '/wp-content/plugins/wp-richlist/js/richlist.js');
 }
 add_action( 'wp_enqueue_scripts', 'rich_list_includes' );
 /**
