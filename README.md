@@ -18,7 +18,7 @@ The installation is really simple.
 Have Queries? [write us on](mailto:shineklbm@gmail.com)
 
 #### Developers
-###### Shine Mon
+###### Shine Sudarsanan
 ###### Neethu Johnson
 ###### Elavarasi S
 ###### Rani Jacob
