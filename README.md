@@ -18,11 +18,11 @@ The installation is really simple.
 Have Queries? [write us on](mailto:shineklbm@gmail.com)
 
 #### Developer
-###### Shine Sudarsanan
+Shine Sudarsanan
 #### Contributors
-###### Neethu Johnson
-###### Elavarasi S
-###### Rani Jacob
+Neethu Johnson
+Elavarasi S
+Rani Jacob
 
 #### Feature Request / Bug report
 Please contact us by [email](mailto:shine@richkenmedia.com)
