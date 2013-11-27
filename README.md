@@ -18,10 +18,10 @@ The installation is really simple.
 Have Queries? [write us on](mailto:shineklbm@gmail.com)
 
 #### Developers
-###### Shine Mon - Lead Architect
-###### Neethu Johnson - Developer
-###### Elavarasi S - Developer
-###### Rani Jacob - Developer
+###### Shine Mon
+###### Neethu Johnson
+###### Elavarasi S
+###### Rani Jacob
 
 #### Feature Request / Bug report
 Please contact us by [email](mailto:shine@richkenmedia.com)
