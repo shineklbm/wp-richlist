@@ -20,7 +20,7 @@ Have Queries? [write us on](mailto:shineklbm@gmail.com)
 #### Developers
 ###### Shine Mon - Lead Architect
 ###### Neethu Johnson - Developer
-###### Elavarasi - Developer
+###### Elavarasi S - Developer
 ###### Rani Jacob - Developer
 
 #### Feature Request / Bug report
