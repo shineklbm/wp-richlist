@@ -15,4 +15,13 @@ The installation is really simple.
 7. There will be a widget named RichList Widget, drag and drop to the widget area and configure it as per your need.
 8. That's it ;)
 
-Have Queries? write to us on (mailto:shineklbm@gmail.com)
+Have Queries? [write us on](mailto:shineklbm@gmail.com)
+
+#### Developers
+Shine Mon - Lead Architect
+Neethu Johnson - Developer
+Elavarasi - Developer
+Rani Jacob - Developer
+
+#### Feature Request / Bug report
+Please contact us by [email](mailto:shine@richkenmedia.com)
