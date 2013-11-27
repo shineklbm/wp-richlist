@@ -1,0 +1,6 @@
+#richlist_container{ padding-bottom: 15px; }
+#richlist_container .rich_titles{ margin: 0; padding: 0; }
+#richlist_container .rich_titles a{ font-size: 15px; text-decoration: none; }
+#richlist_container .rich_titles a:hover{ text-decoration: none; }
+#richlist_container div.ui-accordion-content p.rich_links{ margin: 0 0 3px 15px;}
+#richlist_container div.ui-accordion-content p.rich_links a{ text-decoration: none; font-size: 13px; }
