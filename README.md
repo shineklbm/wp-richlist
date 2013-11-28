@@ -7,7 +7,7 @@ A really simple plugin for wordpress to display the list categories with posts t
 The installation is really simple.
 
 1. Download the zip.
-2. Extract the files and copy wp-richlist folder to your wp-content/plugins directory.
+2. Extract the files and copy wp-richlist (Please be careful, you must only copy wp-richlist folder) folder to your wp-content/plugins directory.
 3. Login to your wordpress backend
 4. Goto plugins menu 
 5. Click Activate link on the "RichList Widget" plugin.
