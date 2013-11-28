@@ -1,4 +1,4 @@
-RichList Widget - for WordPress category listing
+RichList Widget - for WordPress Category Listing
 ===========
 
 A really simple plugin for wordpress to display the list categories with posts titles in an accordian menu.
