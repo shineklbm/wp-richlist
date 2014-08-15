@@ -21,13 +21,8 @@ Have Queries? [write us on](mailto:shineklbm@gmail.com)
 
 Shine Sudarsanan
 
-#### Contributors
-
-Neethu Johnson
-
-Elavarasi S
-
-Rani Jacob
+#### Website
+http://richkenmedia.com
 
 #### Feature Request / Bug report
 Please contact us by [email](mailto:shine@richkenmedia.com)
